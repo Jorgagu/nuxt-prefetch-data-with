@@ -8,7 +8,7 @@
     "preview": "nuxt preview"
   },
   "dependencies": {
-    "nuxt": "https://pkg.pr.new/nuxt@PR_NUMBER",
+    "nuxt": "https://pkg.pr.new/nuxt@36538",
     "vue": "^3.5.43",
     "vue-router": "^5.3.1"
   }
