@@ -1,0 +1,15 @@
+{
+  "name": "nuxt-prefetch-data-with",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "nuxt": "https://pkg.pr.new/nuxt@PR_NUMBER",
+    "vue": "^3.5.43",
+    "vue-router": "^5.3.1"
+  }
+}
